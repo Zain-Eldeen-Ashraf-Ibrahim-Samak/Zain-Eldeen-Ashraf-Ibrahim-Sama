@@ -1,7 +1,7 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://github.com/Zain-Eldeen85/Zain-Eldeen85/blob/main/assets/Zain_Eldeen_Banner.png" alt="Custom GitHub Banner" />
+  <img src="https://github.com/Zain-Eldeen-Ashraf-Ibrahim-Samak/Zain-Eldeen85/blob/main/assets/Zain_Eldeen_Banner.png" alt="Custom GitHub Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Zain Eldeen</h1>
 
