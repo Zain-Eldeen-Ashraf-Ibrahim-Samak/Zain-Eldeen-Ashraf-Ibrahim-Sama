@@ -1,7 +1,7 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://github.com/Zain-Eldeen-Ashraf-Ibrahim-Samak/Zain-Eldeen85/blob/main/assets/Zain_Eldeen_Banner.png" alt="Custom GitHub Banner" />
+  <img src="https://github.com/Zain-Eldeen-Ashraf-Ibrahim-Samak/Zain-Eldeen-Ashraf-Ibrahim-Samak/blob/main/assets/Zain_Eldeen_Banner.png" alt="Custom GitHub Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Zain Eldeen</h1>
 
@@ -67,13 +67,13 @@ ___
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Eldeen85&show_icons=true&theme=tokyonight" alt="Zain's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Eldeen-Ashraf-Ibrahim-Samak&show_icons=true&theme=tokyonight" alt="Zain's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Eldeen85&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Eldeen-Ashraf-Ibrahim-Samak&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Eldeen85&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Eldeen-Ashraf-Ibrahim-Samak&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
