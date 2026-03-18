@@ -7,13 +7,13 @@
 
 <p align="center">
   🎓 CS Student at <strong>SCU - Faculty of Computers and Information</strong><br/>
-  💼 Founder of <strong>UNITS</strong> – A SaaS-Based E-Learning Platform<br/>
+  💼 Founder of <strong>ITQAN</strong> – A SaaS-Based E-Learning Platform<br/>
   💻 Full Stack Developer | Flutter • React • Next.js • Node.js
 </p>
 
 ---
 
-## 🚀 About UNITS
+## 🚀 About ITQAN
 
 **ITQAN** is a modern **SaaS e-learning academy** offering scalable and cloud-based educational solutions via a professional **web platform** and **cross-platform mobile app**. Our mission is to empower digital learning through technology.
 
